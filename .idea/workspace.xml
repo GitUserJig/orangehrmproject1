@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7671b62c-a7c2-42bc-ab8a-798b49bdf959" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ssg0F7WM98ilI1olVRv89GQq8I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/EnvisionLearning/Practicals/SeleniumProjectsLearning/orangehrmproject1/orangehrm_testdata",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\EnvisionLearning\Practicals\SeleniumProjectsLearning\orangehrmproject1\orangehrm_testdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\EnvisionLearning\Practicals\SeleniumProjectsLearning\orangehrmproject1\orangehrm_testng_runner_controlller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.OrangeHrm_EmployeePortal_TestRunner.VerifyTheUserProfilePageLinks">
+    <configuration name="C:/EnvisionLearning/Practicals/SeleniumProjectsLearning/orangehrmproject1/orangehrm_testdata/orangehrm_testng_execution_controller_compatible_testing.xml" type="TestNG" nameIsGenerated="true">
+      <module name="orangehrmproject1" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/orangehrm_testdata/orangehrm_testng_execution_controller_compatible_testing.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHrm_EmployeePortal_TestRunner (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangehrmproject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.orangehrmtestrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.envision.orangehrmtestrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.envision.orangehrmtestrunner.OrangeHrm_EmployeePortal_TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHrm_EmployeePortal_TestRunner" type="TestNG" nameIsGenerated="true">
+      <module name="orangehrmproject1" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.orangehrmtestrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.envision.orangehrmtestrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.envision.orangehrmtestrunner.OrangeHrm_EmployeePortal_TestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHrm_EmployeePortal_TestRunner.VerifyTheUserProfilePageLinks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangehrmproject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.orangehrmtestrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.envision.orangehrmtestrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.envision.orangehrmtestrunner.OrangeHrm_EmployeePortal_TestRunner" />
+      <option name="METHOD_NAME" value="VerifyTheUserProfilePageLinks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHrm_EmployeePortal_TestRunner.VerifyingTheLoginCredentialsIsAvailability" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangehrmproject1" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.orangehrmtestrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.envision.orangehrmtestrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.envision.orangehrmtestrunner.OrangeHrm_EmployeePortal_TestRunner" />
+      <option name="METHOD_NAME" value="VerifyingTheLoginCredentialsIsAvailability" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHrm_EmployeePortal_TestRunner.VerifyingTheUserProfilePageLinks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangehrmproject1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.orangehrmtestrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.envision.orangehrmtestrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.envision.orangehrmtestrunner.OrangeHrm_EmployeePortal_TestRunner" />
+      <option name="METHOD_NAME" value="VerifyingTheUserProfilePageLinks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner.VerifyTheUserProfilePageLinks" />
+        <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner.VerifyingTheUserProfilePageLinks" />
+        <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner.VerifyingTheLoginCredentialsIsAvailability" />
+        <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7671b62c-a7c2-42bc-ab8a-798b49bdf959" name="Changes" comment="" />
+      <created>1689940480424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689940480424</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/envision/orangehrmtestrunner/OrangeHrm_EmployeePortal_TestRunner.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

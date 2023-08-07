@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="orangehrmproject1(failed)">
+    <classes>
+      <class name="com.envision.orangehrmtestrunner.OrangeHrm_EmployeePortal_TestRunner">
+        <methods>
+          <include name="initializeReport"/>
+          <include name="closure"/>
+          <include name="OpenBrowser_OpenUrl"/>
+          <include name="VerifyingTheLoginCredentialsIsAvailability" invocation-numbers="0"/>
+          <include name="generateReport"/>
+        </methods>
+      </class> <!-- com.envision.orangehrmtestrunner.OrangeHrm_EmployeePortal_TestRunner -->
+    </classes>
+  </test> <!-- orangehrmproject1(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
