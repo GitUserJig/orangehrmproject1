@@ -19,7 +19,7 @@ import static com.aventstack.extentreports.MediaEntityBuilder.*;
 
 public class OrangeHrm_EmployeePortal_TestRunner extends BaseTest {
 
-   // @Test(dataProvider = "orangehrm_testcase_data", dataProviderClass = ExcelReader.class, retryAnalyzer = RunFailedTests.class)
+    @Test(dataProvider = "orangehrm_testcase_data", dataProviderClass = ExcelReader.class, retryAnalyzer = RunFailedTests.class)
     public void VerifyingTheLoginCredentialsIsAvailability(Method m, String expectedUname, String expectedPwd) {
 
         ExtentTest current_test = BaseTest.extentReports.createTest(m.getName());

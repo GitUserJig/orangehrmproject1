@@ -6,6 +6,7 @@ com\envision\orangehrmutil\PropertiesFileReader.class
 com\envision\orangehrmtestrunner\BaseTest.class
 com\envision\orangehrmutil\CommonUtil.class
 com\envision\orangehrmutil\BrowserFactory.class
+com\envision\listeners\RunFailedTests.class
 com\envision\orangehrmpageobjects\BasePage.class
 com\envision\orangehrmpageobjects\MyInfoPage.class
 com\envision\orangehrmutil\ObjectRepoHandler.class

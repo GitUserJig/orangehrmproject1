@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7671b62c-a7c2-42bc-ab8a-798b49bdf959" name="Changes" comment="" />
+    <list default="true" id="7671b62c-a7c2-42bc-ab8a-798b49bdf959" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orangehrm_reports/AllTestscriptResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/orangehrm_reports/AllTestscriptResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/envision/orangehrmtestrunner/OrangeHrm_EmployeePortal_TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/envision/orangehrmtestrunner/OrangeHrm_EmployeePortal_TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2023-07-29T21-31-31_131-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2023-07-29T21-31-31_131-jvmRun1.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/excelutil/ExcelReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/excelutil/ExcelReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/listeners/RunFailedTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/listeners/RunFailedTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmpageobjects/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmpageobjects/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmpageobjects/DashboardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmpageobjects/DashboardPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmpageobjects/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmpageobjects/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmpageobjects/MyInfoPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmpageobjects/MyInfoPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmtestrunner/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmtestrunner/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmtestrunner/OrangeHrm_EmployeePortal_TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmtestrunner/OrangeHrm_EmployeePortal_TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmutil/BrowserFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmutil/BrowserFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmutil/CommonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmutil/CommonUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmutil/ObjectRepoHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmutil/ObjectRepoHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmutil/PropertiesFileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/envision/orangehrmutil/PropertiesFileReader.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,19 +36,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2Ssg0F7WM98ilI1olVRv89GQq8I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/EnvisionLearning/Practicals/SeleniumProjectsLearning/orangehrmproject1/orangehrm_testdata",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/EnvisionLearning/Practicals/SeleniumProjectsLearning/orangehrmproject1/orangehrm_testdata&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\EnvisionLearning\Practicals\SeleniumProjectsLearning\orangehrmproject1\orangehrm_testdata" />
@@ -38,7 +60,7 @@
       <recent name="C:\EnvisionLearning\Practicals\SeleniumProjectsLearning\orangehrmproject1\orangehrm_testng_runner_controlller" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.OrangeHrm_EmployeePortal_TestRunner.VerifyTheUserProfilePageLinks">
+  <component name="RunManager">
     <configuration name="C:/EnvisionLearning/Practicals/SeleniumProjectsLearning/orangehrmproject1/orangehrm_testdata/orangehrm_testng_execution_controller_compatible_testing.xml" type="TestNG" nameIsGenerated="true">
       <module name="orangehrmproject1" />
       <shortenClasspath name="NONE" />
@@ -122,7 +144,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrangeHrm_EmployeePortal_TestRunner.VerifyingTheLoginCredentialsIsAvailability" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OrangeHrm_EmployeePortal_TestRunner.VerifyingTheLoginCredentialsIsAvailability" type="TestNG" nameIsGenerated="true">
       <module name="orangehrmproject1" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
@@ -173,7 +195,6 @@
       <list>
         <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner.VerifyTheUserProfilePageLinks" />
         <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner.VerifyingTheUserProfilePageLinks" />
-        <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner.VerifyingTheLoginCredentialsIsAvailability" />
         <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner (1)" />
       </list>
     </recent_temporary>
